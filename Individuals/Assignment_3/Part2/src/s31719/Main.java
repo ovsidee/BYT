@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Provide second value:");
         double y = scanner.nextDouble();
 
-        System.out.println("Provide operation of what you want to do with those numbers: (*, +, -, \\)");
+        System.out.println("Provide operation of what you want to do with those numbers: (*, +, -, /)");
         char operation = scanner.next().charAt(0);
 
         try {
