@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "As4m1o3190M=",
+  "dgSpecHash": "cLf3rQl8IYc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vital\\Desktop\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+  "projectFilePath": "E:\\UniversityProgrammingProjects\\BYT\\Individuals\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vital\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
     "C:\\Users\\Vital\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
